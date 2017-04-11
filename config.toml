@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "wedfewr wer"
+baseURL = "https:\/\/qwere.were"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
